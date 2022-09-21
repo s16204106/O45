@@ -36,5 +36,3 @@ const get_row_data = async () => {
   }
   console.log('执行完成')
 }
-
-run()
